@@ -1,0 +1,23 @@
+.bg{
+    background:url('../../assets/bg.jpg')no-repeat;
+   
+    
+}
+.bg-wrapper{
+    background-color: rgba(15, 18, 15, 0.8);
+
+}
+
+.bg-wrap{
+    background-color: rgba(15, 16, 15, 0.8);
+
+}
+
+.bg-plan{
+    background:url('../../assets/tv.jpg')no-repeat;
+}
+.bg-wraplan{
+        background-color: rgba(249, 249, 249, 0.8);
+
+
+}
